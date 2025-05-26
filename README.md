@@ -20,7 +20,7 @@ source <your-fav-env-name>/bin/activate
 Clone the project
 
 ```
-git clone https://github.com/
+git clone git@github.com:amirarsalan-badr/Eshop-with-Django.git
 ```
 Install packages and run the project
 
