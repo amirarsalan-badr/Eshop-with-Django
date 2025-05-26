@@ -25,7 +25,7 @@ git clone git@github.com:amirarsalan-badr/Eshop-with-Django.git
 Install packages and run the project
 
 ```
-cd e-shop-django/
+cd Eshop-with-Django/
 pip install -r requirements.txt
 python manage.py runserver
 ```
