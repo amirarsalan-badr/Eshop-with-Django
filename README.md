@@ -27,5 +27,22 @@ Install packages and run the project
 ```
 cd Eshop-with-Django/
 pip install -r requirements.txt
+```
+### Apply migrations:
+
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+
+### Create superuser (for admin access):
+
+```bash
+python manage.py createsuperuser
+```
+
+### Run the development server:
+
+```bash
 python manage.py runserver
 ```
